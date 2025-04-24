@@ -8,7 +8,7 @@ import Type from "./Type";
 function Home() {
   return (
     <section>
-      <Container fluid className="home-section" id="home">
+      <Container fluid className="" id="home">
         <Particle />
         <Container className="home-content">
           <Row>
@@ -21,7 +21,7 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                I'M
+                I'm
                 <strong className="main-name"> Manish Kumar</strong>
               </h1>
 

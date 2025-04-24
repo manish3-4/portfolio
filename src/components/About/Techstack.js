@@ -11,7 +11,9 @@ import {
   DiJava,
 } from "react-icons/di";
 import {
+  SiExpress,
   SiFirebase,
+  SiMysql,
   SiNextdotjs,
   SiPostgresql,
 } from "react-icons/si";
@@ -35,10 +37,10 @@ function Techstack() {
         <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
+        <SiExpress />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
+        <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiNextdotjs />
@@ -50,7 +52,13 @@ function Techstack() {
         <SiFirebase />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <DiMongodb />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <SiPostgresql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiMysql />
       </Col>
     </Row>
   );
