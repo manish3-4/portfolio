@@ -18,7 +18,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              This is Manish Kumar. Enrolled at Lovely Professional University in BTech CSE with specialization in <span className="purple">Fullstack Development</span>.
+              This is Manish Kumar. Enrolled at Lovely Professional University in B.Tech CSE with specialization in <span className="purple">Fullstack Development</span>.
               <br />
               <br />I am fluent in technologies like
               <i>
